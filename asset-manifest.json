@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TexTools-React/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/TexTools-React/static/js/main.de585416.chunk.js",
+    "main.js.map": "/TexTools-React/static/js/main.de585416.chunk.js.map",
+    "runtime-main.js": "/TexTools-React/static/js/runtime-main.f70359c3.js",
+    "runtime-main.js.map": "/TexTools-React/static/js/runtime-main.f70359c3.js.map",
+    "static/js/2.088b7bfe.chunk.js": "/TexTools-React/static/js/2.088b7bfe.chunk.js",
+    "static/js/2.088b7bfe.chunk.js.map": "/TexTools-React/static/js/2.088b7bfe.chunk.js.map",
+    "static/js/3.32d4b411.chunk.js": "/TexTools-React/static/js/3.32d4b411.chunk.js",
+    "static/js/3.32d4b411.chunk.js.map": "/TexTools-React/static/js/3.32d4b411.chunk.js.map",
+    "index.html": "/TexTools-React/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/TexTools-React/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.088b7bfe.chunk.js.LICENSE.txt": "/TexTools-React/static/js/2.088b7bfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f70359c3.js",
+    "static/js/2.088b7bfe.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.de585416.chunk.js"
+  ]
+}
